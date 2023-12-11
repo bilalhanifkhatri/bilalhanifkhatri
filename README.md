@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bilal Khatri</h1>
 <h3 align="center">Passionate Full Stack React/Node developer with expertise in creating visually appealing and attractive front-end designs. Experienced in building robust web backends, I specialize in bringing ideas to life through interactive and engaging web applications.</h3>
 
-- 🔭 I’m currently working on [Social Media App](https://social-mern-app-jet.vercel.app/)
-
 - 💬 Ask me about **React / Node**
 
 - 📫 How to reach me **bilalhanifkhatri@gmail.com**
