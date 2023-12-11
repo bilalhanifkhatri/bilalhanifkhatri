@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bilal Hanif Khatri</h1>
-<h3 align="center">React Developer | Building interactive web applications Passionate React Developer skilled in creating interactive web applications. Proficient in React.js and experienced in front-end development. Let's bring your ideas to life!</h3>
+<h1 align="center">Hi 👋, I'm Bilal Khatri</h1>
+<h3 align="center">Passionate Full Stack React/Node developer with expertise in creating visually appealing and attractive front-end designs. Experienced in building robust web backends, I specialize in bringing ideas to life through interactive and engaging web applications.</h3>
 
-- 🌱 I’m currently working on **React, Redux, Node**
-
-- 💬 Ask me about **React**
+- 🌱 I’m currently working on **React, Node**
 
 - 📫 How to reach me **bilalhanifkhatri@gmail.com**
 
